@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   gitlab:
   - apiVersion: v1
+    created: "2021-07-21T16:51:28.7911636+02:00"
+    description: Gitlab monolith chart.
+    digest: 8ae3915e0378c2267cfe0660d22972453be2364aedc0d43350eecb760bf624e9
+    keywords:
+    - gitlab
+    name: gitlab
+    urls:
+    - https://github.com/rbonvalot/helm/releases/download/gitlab-0.0.6/gitlab-0.0.6.tgz
+    version: 0.0.6
+  - apiVersion: v1
     created: "2021-07-21T15:44:29.0218375+02:00"
     description: Gitlab monolith chart.
     digest: 4411bd0a802c22c77993ef02db2105dfbda2188ded13f669719b0a701f396cd9
